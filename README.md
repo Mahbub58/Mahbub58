@@ -14,12 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I really like what i'm doing
 -->
-In my time developing Android apps I've worked mainly as the only developer on the project, I've also worked in large teams. I'm proactive and a great communicator, so I provide clear feedback to improve the app and also respond well to my client's feedback.
 
-My usual stack:
--MVVM
--Java
--Retrofit
--Volley
--Room
--LiveData
