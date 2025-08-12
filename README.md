@@ -1,119 +1,160 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Mahbub Alam - Android Developer 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mahbubalam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub58/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-orange?style=for-the-badge&logo=android&logoColor=white)](https://bit.ly/44sH7dL)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+## I'm an Android Developer, Full-Stack Kotlin Developer, and Tech Enthusiast!
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 Currently working as Software Engineer (Android) at **Envobyte**
+- 🌱 Specializing in **Jetpack Compose**, **Kotlin Multiplatform**, and **KobWeb** for full-stack development
+- 🌐 Building modern web applications with **Kotlin** and **KobWeb** framework
+- 👯 Looking to collaborate on innovative Android and full-stack Kotlin projects
+- 🥅 2025 Goals: Master KMP, advance KobWeb expertise, and contribute more to open source
+- ⚡ Fun fact: Top-rated Upwork freelancer with **100% success rate** since 2019
+- 🎓 Computer Science Graduate from **City University** (2017-2021)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbub58-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub58/)
+[![Email](https://img.shields.io/badge/Email-Mahbubalam58@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mahbubalam58@outlook.com)
+[![Upwork](https://img.shields.io/badge/Upwork-mahbubalam-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mahbubalam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-ff6b6b?style=flat&logo=android)](https://bit.ly/44sH7dL)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+#### 📱 Mobile Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
 
-<br />
-<br />
+#### 🌐 Web Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+<img src="https://img.shields.io/badge/KobWeb-Framework-9146ff?style=flat&logo=kotlin" alt="KobWeb" width="60" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
----
+#### 🔧 Backend & Database
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
 
-### 📺 Latest YouTube Videos
+#### 🎨 Design & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
+</p>
 
-<!-- YOUTUBE:START -->
-- [NEW: How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - v2.0.0](https://www.youtube.com/watch?v=quGdJweadFM)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+#### 💻 Operating Systems
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+</p>
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
+## 💼 Professional Experience
 
-</details>
+### 🚀 Current Role
+**Software Engineer (Android)** @ **Envobyte** (Jan 2025 - Present)
+- Developing Android apps using **Jetpack Compose**
+- Building modern web applications with **Kotlin** and **KobWeb**
+- Efficiently resolving bugs for smooth user experience
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 🌟 Previous Experience
+- **Android Developer** @ **Semibase Ltd** (Feb 2024 - Sep 2024) - US Company
+- **Android Developer** @ **STE Instaal Studio** (Feb 2022 - Feb 2023) - Tunisia/Estonia
+- **Junior Android Developer** @ **Bengal Soft** (Oct 2021 - Feb 2022)
+- **Freelance Android Developer** @ **Upwork** (2019 - Present) - Top Rated with 100% Success Rate
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+---
 
-</details>
+## 🛠️ Technical Skills
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+```kotlin
+val mySkills = mapOf(
+    "Mobile" to listOf("Android", "Kotlin", "Java"),
+    "Web Development" to listOf("KobWeb", "Kotlin/JS", "HTML5", "CSS3", "JavaScript"),
+    "Architecture" to listOf("MVVM", "Clean Architecture", "Repository Pattern"),
+    "Modern Android" to listOf("Jetpack Compose", "Coroutines", "Room", "WorkManager"),
+    "Networking" to listOf("Retrofit", "Volley", "OkHttp"),
+    "Backend" to listOf("Firebase", "AWS", "REST APIs", "JSON"),
+    "Database" to listOf("MongoDB", "Room", "SQLite", "Firestore", "Realtime Database"),
+    "Tools" to listOf("Git", "CI/CD", "Figma", "Adobe XD", "Trello"),
+    "Other" to listOf("KMP", "RxJava", "VPS Hosting")
+)
+```
+
+---
+
+## 🎓 Education & Certifications
+
+**🏫 Bachelor of Science in Computer Science & Engineering**  
+*City University* (2017-2021)
+
+**📚 Professional Certifications:**
+- 🎓 Full stack Kotlin Multiplatform KMP Development | Web & Mobile
+- 🎓 The Complete Android Kotlin Developer Course by Dr. Hussein Alrubaye
+- 🎓 The Complete Android App Development by Dr. Hussein Alrubaye
+- 🎓 Web Application Development with Java Enterprise Edition
+- 🎓 The Ultimate Java Mastery Series by Mosh Hamedani
+- 🏆 Cybersecurity Contest Certificate (Nationwide Competition)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mahbub58&show_icons=true&theme=radical&hide_border=true" alt="Mahbub's GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub58&theme=radical&hide_border=true" alt="Mahbub's GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub58&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on exciting Android and full-stack Kotlin projects or discussing the latest in mobile and web development. Whether you're looking for:
+
+- 📱 Custom Android app development
+- 🌐 Modern web applications with **KobWeb** and **Kotlin**
+- 🔧 Bug fixing and optimization
+- 🎨 UI/UX improvements
+- 🚀 Jetpack Compose implementations
+- 🌍 Kotlin Multiplatform solutions
+- 🗄️ MongoDB integration and database design
+
+Feel free to reach out!
+
+**📫 How to reach me:**
+- 📧 Email: [Mahbubalam58@outlook.com](mailto:Mahbubalam58@outlook.com)
+- 💼 LinkedIn: [linkedin.com/in/mahbub58](https://www.linkedin.com/in/mahbub58/)
+- 🔗 Upwork: [upwork.com/freelancers/mahbubalam](https://www.upwork.com/freelancers/mahbubalam)
+- 📱 Portfolio: [View My Projects](https://bit.ly/44sH7dL)
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahbub58&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+⭐️ From <a href="https://github.com/mahbub58">Mahbub Alam</a> - Let's build something amazing together!
+</p>
