@@ -116,12 +116,16 @@ val mySkills = mapOf(
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub58&theme=radical&hide_border=true" alt="Mahbub's GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mahbub58&show_icons=true&theme=radical&hide_border=true" alt="Mahbub's GitHub Stats" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub58&theme=radical&hide_border=true" alt="Mahbub's GitHub Streak" />
-</p>
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub58&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
