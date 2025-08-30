@@ -67,7 +67,7 @@
 ## 💼 Professional Experience
 
 ### 🚀 Current Role
-**Software Engineer (Android)** @ **Envobyte** (Jan 2025 - Present)
+**Software Engineer (Android)** @ **Envobyte** (Aug. 2025 - Present)
 - Developing Android apps using **Jetpack Compose**
 - Building modern web applications with **Kotlin** and **KobWeb**
 - Efficiently resolving bugs for smooth user experience
