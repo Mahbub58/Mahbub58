@@ -104,7 +104,7 @@ val mySkills = mapOf(
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahbub58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub58&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub58&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" alt="Top Languages" />
 </p>
 
 ---
