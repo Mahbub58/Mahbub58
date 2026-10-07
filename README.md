@@ -1,115 +1,102 @@
-# Hi there, I'm Mahbub Alam - Android Developer 👋
+# Hi there, I'm Mahbub Alam 👋
+### Android & Kotlin Multiplatform Developer · Founder of Softvinax · Cybersecurity enthusiast
 
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mahbubalam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub58/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-orange?style=for-the-badge&logo=android&logoColor=white)](https://bit.ly/44sH7dL)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%204.9%2F5-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017055103a7806ae57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub58)
 
-## I'm an Android Developer, Full-Stack Kotlin Developer, and Tech Enthusiast!
+- 📱 Building and shipping **Kotlin Multiplatform** apps to Google Play and the App Store
+- 🔐 Background in **cybersecurity**: top 0.1% of 150,000+ participants in the Bangladesh National Cybersecurity Contest
+- ⭐ **Upwork Top Rated**: 4.9/5.0, 100% Job Success Score, 29+ projects
+- 🏆 "Best Performer of the Year" at Envobyte Ltd.
+- 🗣️ I speak English and Bangla
+- 🎓 BSc in Computer Science & Engineering, City University (2017–2021)
 
-- 🔭 Currently working as Software Engineer (Android) at **Envobyte**
-- 🌱 Specializing in **Jetpack Compose**, **Kotlin Multiplatform**, and **KobWeb** for full-stack development
-- 🌐 Building modern web applications with **Kotlin** and **KobWeb** framework
-- 👯 Looking to collaborate on innovative Android and full-stack Kotlin projects
-- 🥅 2025 Goals: Master KMP, advance KobWeb expertise, and contribute more to open source
-- ⚡ Fun fact: Top-rated Upwork freelancer with **100% success rate** since 2019
-- 🎓 Computer Science Graduate from **City University** (2017-2021)
+---
 
-### Connect with me:
+## 🚀 Featured Products (Softvinax)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbub58-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub58/)
-[![Email](https://img.shields.io/badge/Email-Mahbubalam58@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mahbubalam58@outlook.com)
-[![Upwork](https://img.shields.io/badge/Upwork-mahbubalam-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mahbubalam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-ff6b6b?style=flat&logo=android)](https://bit.ly/44sH7dL)
+### 🧳 Travel Dex: [App Store](https://apps.apple.com/app/id6796435670)
+A Kotlin Multiplatform travel finance app, live on the App Store and Play Store.
+- Currency conversion, trip expense tracking, squad expense splitting, rate alerts, PIN lock
+- AI trip/budget planning, live voice translation, OCR
+- Real-time squad communication (SOS, walkie-talkie)
+- **Stack:** KMP, Compose Multiplatform, Room, RevenueCat, Supabase, Kotlin `expect/actual`
 
-### Languages and Tools:
+### 📰 Breify: [breify.com](https://www.breify.com) · [Google Play](https://play.google.com/store/apps/details?id=ltd.softvinax.breify)
+A bilingual (Bangla/English) AI-powered news portal with a companion KMP mobile app.
+- "Ask Breify AI" chat with intent classification, web search, answer caching, and plan-based access
+- NLP preprocessing pipeline that deduplicates ~300 raw articles to ~130, keeping Gemini API costs under $0.05/day
+- Subscription tier system, Clean Architecture, Android + iOS from one codebase
+- **Stack:** Kotlin, Spring Boot, Next.js 15, PostgreSQL, Redis, Docker, Nginx, Koin, Ktor, Room KMP, Coil 3
 
-#### 📱 Mobile Development
+---
+
+## 🛠️ Tech Stack
+
+#### 📱 Mobile
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
 </p>
 
-#### 🌐 Web Development
+#### 🌐 Web & Backend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://img.shields.io/badge/KobWeb-Framework-9146ff?style=flat&logo=kotlin" alt="KobWeb" width="60" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
-
-#### 🔧 Backend & Database
-<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://img.shields.io/badge/KobWeb-Framework-9146ff?style=flat&logo=kotlin" alt="KobWeb" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-#### 🎨 Design & Tools
+#### ⚙️ DevOps & Tools
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
-</p>
-
-#### 💻 Operating Systems
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Current Role
-**Software Engineer (Android)** @ **Envobyte** (Aug. 2025 - Present)
-- Developing Android apps using **Jetpack Compose**
-- Building modern web applications with **Kotlin** and **KobWeb**
-- Efficiently resolving bugs for smooth user experience
-
-### 🌟 Previous Experience
-- **Android Developer** @ **Semibase Ltd** (Feb 2024 - Sep 2024) - US Company
-- **Android Developer** @ **STE Instaal Studio** (Feb 2022 - Feb 2023) - Tunisia/Estonia
-- **Junior Android Developer** @ **Bengal Soft** (Oct 2021 - Feb 2022)
-- **Freelance Android Developer** @ **Upwork** (2019 - Present) - Top Rated with 100% Success Rate
-
----
-
-## 🛠️ Technical Skills
 
 ```kotlin
 val mySkills = mapOf(
-    "Mobile" to listOf("Android", "Kotlin", "Java"),
-    "Web Development" to listOf("KobWeb", "Kotlin/JS", "HTML5", "CSS3", "JavaScript"),
-    "Architecture" to listOf("MVVM", "Clean Architecture", "Repository Pattern"),
-    "Modern Android" to listOf("Jetpack Compose", "Coroutines", "Room", "WorkManager"),
-    "Networking" to listOf("Retrofit", "Volley", "OkHttp"),
-    "Backend" to listOf("Firebase", "AWS", "REST APIs", "JSON"),
-    "Database" to listOf("MongoDB", "Room", "SQLite", "Firestore", "Realtime Database"),
-    "Tools" to listOf("Git", "CI/CD", "Figma", "Adobe XD", "Trello"),
-    "Other" to listOf("KMP", "RxJava", "VPS Hosting")
+    "Mobile"       to listOf("Android", "Kotlin", "Kotlin Multiplatform", "Compose Multiplatform", "Jetpack Compose"),
+    "Architecture" to listOf("Clean Architecture", "MVVM", "Repository Pattern"),
+    "KMP Libraries" to listOf("Koin", "Ktor", "Room KMP", "Coil 3", "Navigation 3"),
+    "Backend"      to listOf("Spring Boot (Kotlin)", "REST APIs", "Redis", "Bucket4j", "Supabase", "Firebase"),
+    "Web"          to listOf("Next.js", "KobWeb", "Kotlin/JS"),
+    "Database"     to listOf("PostgreSQL + pgvector", "Room", "SQLite", "MongoDB", "Firestore"),
+    "Monetization" to listOf("RevenueCat", "AppLovin", "Google Play Billing"),
+    "DevOps"       to listOf("Docker Compose", "Nginx", "Certbot", "VPS hosting", "CI/CD"),
+    "Security"     to listOf("Firebase App Check", "API rate limiting", "Ethical hacking")
 )
 ```
 
 ---
 
+## 💼 Experience
+
+- **Founder & Managing Director**: **Softvinax** (Dhaka, Bangladesh). Building and publishing apps including Breify and Travel Dex
+- **Software Engineer, Level 2 (KMP Lead)**: **Envobyte Ltd.**. Best Performer of the Year
+- **Team Lead**: **Semibase Ltd.** (US company). Paintology app
+- **Android Developer**: **STE Instaal Studio** (Tunisia/Estonia), Feb 2022 – Feb 2023
+- **Junior Android Developer**: **Bengal Soft**, Oct 2021 – Feb 2022
+- **Freelance Android Developer**: **Upwork** (2019 – Present). Top Rated, 100% JSS
+
+---
+
 ## 🎓 Education & Certifications
 
-**🏫 Bachelor of Science in Computer Science & Engineering**  
-*City University* (2017-2021)
+**🏫 BSc in Computer Science & Engineering**: *City University* (2017–2021)
 
-**📚 Professional Certifications:**
-- 🎓 Full stack Kotlin Multiplatform KMP Development | Web & Mobile
-- 🎓 The Complete Android Kotlin Developer Course by Dr. Hussein Alrubaye
-- 🎓 The Complete Android App Development by Dr. Hussein Alrubaye
+- 🎓 Full Stack Kotlin Multiplatform (KMP) Development | Web & Mobile
+- 🎓 The Complete Android Kotlin Developer Course
+- 🎓 The Complete Android App Development
 - 🎓 Web Application Development with Java Enterprise Edition
-- 🎓 The Ultimate Java Mastery Series by Mosh Hamedani
-- 🏆 Cybersecurity Contest Certificate (Nationwide Competition)
+- 🎓 The Ultimate Java Mastery Series
+- 🏆 Bangladesh National Cybersecurity Contest: top 0.1% of 150,000+ participants
 
 ---
 
@@ -119,13 +106,9 @@ val mySkills = mapOf(
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub58&theme=radical&hide_border=true" alt="Mahbub's GitHub Streak" />
 </p>
 
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mahbub58&show_icons=true&theme=radical&hide_border=true" alt="Mahbub's GitHub Stats" />
 </p>
-
-<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub58&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
@@ -133,25 +116,19 @@ val mySkills = mapOf(
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting Android and full-stack Kotlin projects or discussing the latest in mobile and web development. Whether you're looking for:
+I'm open to collaborating on Android, Kotlin Multiplatform, and full-stack Kotlin projects, and to international opportunities.
 
-- 📱 Custom Android app development
-- 🌐 Modern web applications with **KobWeb** and **Kotlin**
-- 🔧 Bug fixing and optimization
-- 🎨 UI/UX improvements
-- 🚀 Jetpack Compose implementations
-- 🌍 Kotlin Multiplatform solutions
-- 🗄️ MongoDB integration and database design
+- 📱 Android & KMP app development (Android + iOS)
+- 🌐 Full-stack Kotlin: Spring Boot, KobWeb, Next.js
+- 🔧 App Store / Play Store publishing and release troubleshooting
+- 🚀 Jetpack Compose & Compose Multiplatform UI
 
-Feel free to reach out!
-
-**📫 How to reach me:**
-- 📧 Email: [Mahbubalam58@outlook.com](mailto:Mahbubalam58@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/mahbub58](https://www.linkedin.com/in/mahbub58/)
-- 🔗 Upwork: [upwork.com/freelancers/mahbubalam](https://www.upwork.com/freelancers/mahbubalam)
-- 📱 Portfolio: [View My Projects](https://bit.ly/44sH7dL)
+**📫 Reach me:**
+- 📧 [Mahbubalam58@outlook.com](mailto:Mahbubalam58@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahbub58)
+- 🔗 [Upwork](https://www.upwork.com/freelancers/~017055103a7806ae57)
 
 ---
 
@@ -160,5 +137,5 @@ Feel free to reach out!
 </p>
 
 <p align="center">
-⭐️ From <a href="https://github.com/mahbub58">Mahbub Alam</a> - Let's build something amazing together!
+⭐️ From <a href="https://github.com/Mahbub58">Mahbub Alam</a>. Let's build something amazing together!
 </p>
